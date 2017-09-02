@@ -1,9 +1,17 @@
-**Yana Operations**
+# Yana Operations
+<!-- TOC START min:1 max:3 link:true update:true -->
+- [Yana Operations](#yana-operations)
+  - [I. The HOME Screen](#i-the-home-screen)
+  - [II. The SNA Graphing Screen](#ii-the-sna-graphing-screen)
+  - [III. The SWR Graphing Screen](#iii-the-swr-graphing-screen)
+  - [IV. The PWR Screen](#iv-the-pwr-screen)
+
+<!-- TOC END -->
 
 **K1TRB T. Berger (c)4/2016**
 
 
-**I. The HOME Screen**
+## I. The HOME Screen
 
 **HOME**
 
@@ -73,7 +81,7 @@ Turn:
 
 The button is always polled. In other words, Yana can only notice if the button is being pushed if she checks the button while it is down. Normally this is not a problem since computers are fast and humans are slow. However, in the PWR mode, the button is sluggish because Yana only checks when not doing other things and those other things take noticeable time.
 
-**II. The SNA Graphing Screen**
+## II. The SNA Graphing Screen
 
 Yana sweeps the range and graphs the readings. Two vertical steps are set on the HOME screen: 10db or 3db. The top of the screen is 0db and the bottom is either -21db or -70db.
 
@@ -128,7 +136,7 @@ Hold: go HOME.
 
 Turn: change the **Tuning** frequency.
 
-**III. The SWR Graphing Screen**
+III. The SWR Graphing Screen
 
 Yana sweeps the range and graphs the readings. Two vertical steps are set on the HOME screen: SWR 1 or SWR .5. The top of the screen is 1.0 VSWR and the bottom is either 4.5 VSWR or 8.0 VSWR.
 
@@ -183,7 +191,7 @@ Hold: go HOME.
 
 Turn: change the **Tuning** frequency.
 
-**IV. The PWR Screen**
+## IV. The PWR Screen
 
 **WARNING! Do not present the meter with more than +10dbm (10mW or 0.7V ... 100W is 70.7V \[100 times too many volts\]). More may fry the AD8307 and burn out the input circuitry. Use the 40db tap for powers up to 100watts. \[The Hayward, Larkin tap is only good up to 60W.\]**
 
