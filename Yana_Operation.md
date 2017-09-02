@@ -2,7 +2,6 @@
 
 **K1TRB T. Berger (c)4/2016**
 
-[TOC]
 
 **I. The HOME Screen**
 
